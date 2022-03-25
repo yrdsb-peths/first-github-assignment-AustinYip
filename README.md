@@ -6,7 +6,7 @@ Then answer in the space below each question:
 1. First name
 Austin
 2. Last name
-Yip
+
 3. Favourite animal
 Dog
 
